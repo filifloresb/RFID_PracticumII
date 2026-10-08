@@ -1,6 +1,6 @@
 # Practicum II
 
-Proyecto de tesis sobre RFID en el laboratorio de robótica.
+Proyecto de tesis sobre RFID en el laboratorio de industria 4.0.
 
 Actualmente, `MATLAB/` contiene el modelo 3D del laboratorio, un script para asignar sus materiales y el modelo de la antena Hopeland A2090 con su patrón de radiación. El archivo de simulación RFID está pendiente de desarrollo.
 
